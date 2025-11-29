@@ -135,7 +135,7 @@ const CONFIG = {
   blog: {
     source: '', // medium | dev
     username: '', // to hide blog section, keep it empty
-    limit:  // How many articles to display. Max is 10.
+    limit: ' ', // How many articles to display. Max is 10.
   },
   
   googleAnalytics: {
