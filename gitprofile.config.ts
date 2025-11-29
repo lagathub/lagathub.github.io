@@ -76,7 +76,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '/gitprofile/resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '/gitprofile/HERBERT KIPKOECH.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
