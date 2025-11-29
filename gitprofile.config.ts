@@ -120,17 +120,7 @@ const CONFIG = {
       to: '2025',
     },
   ],
-  publications: [
-    {
-      title: '',
-      conferenceName: '',
-      journalName: '',
-      authors: '',
-      link: '',
-      description:
-        '',
-    },
-  ],
+
   
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
